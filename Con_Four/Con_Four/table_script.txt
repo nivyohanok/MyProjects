@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[UsersInfo] (
+    [Id]       INT          IDENTITY (1, 1) NOT NULL,
+    [UserName] VARCHAR (50) NOT NULL,
+    [PassWord] VARCHAR (50) NOT NULL,
+    [Wins]     INT          NULL
+);
