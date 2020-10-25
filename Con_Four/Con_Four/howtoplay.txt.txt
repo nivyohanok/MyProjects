@@ -1,0 +1,8 @@
+-first, create a user
+
+-click an a opponent
+
+-to place a piece you need 
+to click on the top of the board
+
+-first one to connect four pieces wins!
